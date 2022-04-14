@@ -13,7 +13,7 @@ This application has been crafted with [Vue-CLI](https://cli.vuejs.org/). I sugg
 
 First of all, you have to clone the project and install npm dependencies:
 ```bash
-git clone https://github.com/Sanfra1407/vue-cash-flow.git
+git clone https://github.com/webdev0627/vue-cash-converter.git
 cd vue-cash-flow
 npm install
 ```
